@@ -22,6 +22,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "counter"
+rootProject.name = "ex6"
 include(":app")
  

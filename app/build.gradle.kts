@@ -3,7 +3,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.counter"
+    namespace = "com.example.ex6"
     compileSdk {
         version = release(36) {
             minorApiLevel = 1
@@ -11,7 +11,7 @@ android {
     }
 
     defaultConfig {
-        applicationId = "com.example.counter"
+        applicationId = "com.example.ex6"
         minSdk = 24
         targetSdk = 36
         versionCode = 1

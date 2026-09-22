@@ -1,4 +1,4 @@
-package com.example.counter;
+package com.example.ex6;
 
 import org.junit.Test;
 
